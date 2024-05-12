@@ -29,7 +29,7 @@ src="Picture Here"
 title="Valerij Talagayev" alt="Valerij Talagayev"
 style="float: left; width: 110px; height: 110px; border-radius: 20px; border: 15px solid white" />
 
-Write a short description of your project here!
+2D Visualization of small molecules is quite a helpful way to recognize the different parts of the small molecule. The main objective of this work relies in the application of the MDAnalysis RDKit converter, which would allow to convert ligands into RDKit objects and thus allow the user to look at the ligand in his MDAnalysis Universe in an easy to use interactive display in jupyter notebook.
 
 Write something about yourself here! (affiliation, background, interests - work and/or personal, etc.)
 

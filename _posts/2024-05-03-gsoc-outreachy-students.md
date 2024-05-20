@@ -25,7 +25,7 @@ Add a link to your blog here!
 ## Valerij Talagayev: [2D Visualization for Small Molecules](https://summerofcode.withgoogle.com/programs/2024/projects/sfy3kuqc)
 
 <img
-src="Picture Here"
+src="https://avatars.githubusercontent.com/talagayev"
 title="Valerij Talagayev" alt="Valerij Talagayev"
 style="float: left; width: 110px; height: 110px; border-radius: 20px; border: 15px solid white" />
 

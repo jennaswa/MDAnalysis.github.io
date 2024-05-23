@@ -29,7 +29,7 @@ src="https://avatars.githubusercontent.com/talagayev"
 title="Valerij Talagayev" alt="Valerij Talagayev"
 style="float: left; width: 110px; height: 110px; border-radius: 20px; border: 15px solid white" />
 
-2D Visualization of small molecules is quite a helpful way to recognize the different parts of the small molecule. The main objective of Valerij's GSOC project will revolve around the 2D visualization of small molecules through the application of the MDAnalysis RDKit converter, which would allow to convert ligands into RDKit objects and thus allow the user to look at the ligand in his MDAnalysis Universe in an easy to use interactive display in jupyter notebook.
+2D Visualization of small molecules is quite a helpful way to recognize the different parts of the small molecule. The main objective of Valerij's GSoC project will revolve around the 2D visualization of small molecules through the application of the MDAnalysis RDKit converter, which would allow to convert ligands into RDKit objects and thus allow the user to look at the ligand in his MDAnalysis Universe in an easy to use interactive display in [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/).
 
 Valerij is a pharmacy student, who graduated at the University of Marburg, there he worked at the [Kolb Lab](https://www.uni-marburg.de/en/fb16/ipc/kolb-group). Valerij is currently a PhD student at the Free University of Berlin at the [Wolber Lab]([https://www.uni-marburg.de/en/fb16/ipc/kolb-group](https://www.bcp.fu-berlin.de/en/pharmazie/faecher/pharmazeutische_chemie/wolber/index.html)) with his research revolving around Toll-like receptor antagonists with addition to method development such as [OpenMMDL](https://github.com/wolberlab/OpenMMDL).
 

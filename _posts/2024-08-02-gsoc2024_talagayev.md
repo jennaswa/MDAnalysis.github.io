@@ -152,7 +152,7 @@ visualizer = MoleculeVisualizer(ag, show_atom_indices=False, width=-1, height=-1
 
 This would lead you to obtain the following display, where you could then select the molecule and checkboxes:
 
-![MDonatello Display](images/display_example.png)
+![MDonatello Display](https://github.com/talagayev/talagayev.github.io/blob/master/images/display_example.png)
 
 ## Lessons Learned During GSoC
 

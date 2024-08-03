@@ -188,6 +188,6 @@ during this time.
 I would like to thank Oliver Beckstein ([@orbeckst](https://github.com/orbeckst)) and Jenna M Swarthout Goddard([@jennaswa](https://github.com/jennaswa)) for the insights and help with the organization and structure during the application, I am glad that I was able to contribute to MDAnalysis with this project.
 
 I would also like to thank my mentors Cédric Bouysset ([@cbouy](https://github.com/cbouy)), Richard Gowers ([@richardjgowers](https://github.com/richardjgowers)) and Yuxuan Zhuang ([@yuxuanzhuang](https://github.com/yuxuanzhuang)), who helped me a lot during the project, with their helpful and insightful mentoring. I am glad, that I was able to learn from you and it helped me to improve
-my coding skills. Also, shotout to Hugo MacDermott-Opeskin ([@hmacdope](https://github.com/hmacdope)) for his help with the PR requests during the application process.
+my coding skills. Also, shoutout to Hugo MacDermott-Opeskin ([@hmacdope](https://github.com/hmacdope)) for his help with the PR requests during the application process.
 
 Finally, I would also like to thank Google for offering this program and supporting open-source software.

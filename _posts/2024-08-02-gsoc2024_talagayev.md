@@ -168,7 +168,7 @@ Here I would highlight some lessons that I learned during GSoC2024:
 - Try to learn as much from the mentors and apply it in your code
 - Getting a meeting with all mentors that have different time zones is sometimes tricky :)
 
-## Conclusion &The Future
+## Conclusion & The Future
 
 It was a fun project and I liked working on it, but the work doesn't stop here. As I mentioned some aspects of the code can be improved and things that can be
 done, so I will continue to work on the code after GSoC 2024, here are again the short highlights that I already mentioned that I would work on:

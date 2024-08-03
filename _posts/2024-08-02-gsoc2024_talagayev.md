@@ -11,7 +11,7 @@ title: GSoC 2024 - 2D visualization for small molecules
 
 **Release**: [GSoC 2024: 2D visualization for small molecules Release](https://github.com/talagayev/MDonatello/releases/tag/0.0.1)
 
-During the Google Summer of Code 2024 I was working on the 2D Visualization of small molecules, which is an important project, that would allow people to easily visualize the molecule that they have in their file
+During the Google Summer of Code 2024 program I was working on the [2D Visualization of small molecules](https://summerofcode.withgoogle.com/programs/2024/projects/sfy3kuqc), which is an important project, that would allow people to easily visualize the molecule that they have in their file
 through the selection of the molecule as an `AtomGroup` in `MDAnalysis`.
 
 ## Goals of the project

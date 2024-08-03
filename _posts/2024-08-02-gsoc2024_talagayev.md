@@ -16,7 +16,7 @@ through the selection of the molecule as an `AtomGroup` in `MDAnalysis`.
 
 ## Goals of the project
 
-The goal of the project was to create a code, that would allow the user to select an `AtomGroup` with the help of `MDAnalysis`, which would be used with an RDKit Converter to convert the molecule into an rdkit mol object, which would be used for the visualization.
+The goal of the project was to create a code, that would allow the user to select an `AtomGroup` with the help of `MDAnalysis`, which would be used with an [RDKit](https://www.rdkit.org/) Converter to convert the molecule into an rdkit mol object, which would be used for the visualization.
 
 My Proposal consisted of the following steps:
 

@@ -35,7 +35,7 @@ I would divide this section into separate parts, each highlighting one of the im
 
 ### Main Visualization Code
 
-The main part of the code consisted of setting up the code for the visualization, which would allow the display of the molecule in a jupyter notebook. This is performed in the 
+The main part of the code consisted of setting up the widget for the visualization, which would allow the display of the molecule in a jupyter notebook. This is performed in the 
 `mdonatello.py`, which is mainly responsible for the visualization with it having the `class MoleculeVisualizer` that is the main class and responsible for the visualization with
 the functions in this class initializing the `IpyWidgets` interactive widgets such as a bar, that allows the user to select the molecule that he wants to display and also the
 interactive checkboxes with each having a feature, that I would explain in a separate section.

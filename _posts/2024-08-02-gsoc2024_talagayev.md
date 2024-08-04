@@ -77,7 +77,7 @@ structure
 
 ### Actions, Testing and Documentation
 
-This would be the final part of what I did and here I would put all these three parts together. Pytests were created for this project in addition to the code being uploaded to
+This would be the final part of what I did and here I would put all these three parts together. A testsuite based on the [pytest](https://docs.pytest.org/) framework was created for this project, in addition to the code being uploaded to
 [Codecov](https://app.codecov.io/gh/talagayev/mdonatello) to display the coverage of the code. Furthermore, a CI CD was created, which installs the package and tests the pytests on
 Linux, MacOS and Windows systems with the Python versions 3.10, 3.11 and 3.12 with different `IpyWidgets` versions, with the oldest supported version for this code being `7.6.4`. Finally,
 a documentation based on the MDAKits Template was created and can be found here: https://mdonatello.readthedocs.io/

@@ -62,7 +62,7 @@ And here is a short summary of features, that will highlight a specific atoms an
 
 - **Rotatable Bonds**, **Partial Charge Heatmap**, **Functional Groups**, **Stereocenters**, **Murcko Scaffold**, **Pharmacophores**
 
-Here I would also address that for the pharmacophores there is a separate checkbox for each of the possible pharmacophore features, thus you can select the specific pharmaocphore feature
+There is a separate checkbox for each pharmacophoric feature, thus you can select the specific feature
 that needs to be highlighted.
 
 For the functional groups it currently uses SMART Patterns to identify certain functional groups and will then generate the checkboxes of the functional groups that were recognized and

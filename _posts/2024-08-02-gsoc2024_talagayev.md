@@ -56,11 +56,19 @@ recognition were highlighted in the assigned colors.
 
 Here is a short summary of features that I added for the visualization, which would show a value for the corresponding feature or adjust the figure of the molecule to display the values:
 
-- **Phyisochemical Properties**, **Atom Indices**, **Partial Charges**, **Hydrogen Bond Donors&Acceptors**
+- **Phyisochemical Properties**
+- **Atom Indices**
+- **Partial Charges**
+- **Hydrogen Bond Donors&Acceptors**
 
 And here is a short summary of features, that will highlight a specific atoms and bonds corresponding to their features if they are selected:
 
-- **Rotatable Bonds**, **Partial Charge Heatmap**, **Functional Groups**, **Stereocenters**, **Murcko Scaffold**, **Pharmacophores**
+- **Rotatable Bonds**
+- **Partial Charge Heatmap**
+- **Functional Groups**
+- **Stereocenters**
+- **Murcko Scaffold**
+- **Pharmacophores**
 
 There is a separate checkbox for each pharmacophoric feature, thus you can select the specific feature
 that needs to be highlighted.

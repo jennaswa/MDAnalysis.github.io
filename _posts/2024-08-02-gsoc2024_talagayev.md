@@ -78,10 +78,8 @@ by selecting them you are able to see the atoms of this functional group.
 
 ### Code Restructure
 
-This is also a section that was done throughout the whole project since in the beginning, the code was mainly consisting of functions in one file and this was one of the points that I was
-glad that my mentors helped me with since the code restructure allowed me to go from a code that was first based upon only function to structure it with classes and then in the end the
-separate classes were moved into separate files, thus a clear structure of the code was created, where every file was distinctive from the other and had an important purpose and a clear
-structure 
+This is also a section where the work that was done throughout the whole project. In the beginning, the code was mainly consisting of functions in one file and this was one of the points that I was glad that my mentors helped me with. The code restructure allowed me to go from a code that was first based upon only function to structure it with classes. In the end, the
+separate classes were moved into separate files. The benefit of such a structure is that by having each class/function have a single responsibility, the code is divided into small parts, which makes it easier to understand the code and maintain it.
 
 ### Actions, Testing and Documentation
 

@@ -85,7 +85,6 @@ a documentation based on the MDAKits Template was created and can be found here:
 ## Current State
 
 MDonatello is available and can be installed and used on your system (see the [How to use it section](#how-to-use-it)). Some improvements are planned as explained below.
-the current version is stable and applicable.
 
 ## What's left to do
 

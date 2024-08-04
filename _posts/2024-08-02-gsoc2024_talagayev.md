@@ -50,7 +50,7 @@ that was proposed either by myself or one of the mentors.
 
 The first feature addition that I was working on were the physiochemical properties as well as the number of hydrogen bond donors and acceptors of the molecule.
 
-After it was done I started adding features, which would by selecting the checkbox highlight the features mentioned in the checkbox. For example, I implemented pharmacophore checkboxes,
+Next, I added checkboxes that would highlight the related features on the image. For example, I implemented pharmacophore checkboxes,
 which by selection would highlight the selected pharmacophores, thus by selecting a hydrophobic feature, the atoms of the molecule that are hydrophobic via the `RDKit` pharmacophore
 recognition were highlighted in the assigned colors.
 

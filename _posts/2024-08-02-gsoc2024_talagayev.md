@@ -31,7 +31,7 @@ features in the `IpyWidgets` visualization, which would give the user important 
 
 ## What I did
 
-I would divide this section into separate parts, each highlighting one of the important aspects of the work.
+The outcome of this GSoC program is a package called `mdonatello` which was created as follow:
 
 ### Main Visualization Code
 

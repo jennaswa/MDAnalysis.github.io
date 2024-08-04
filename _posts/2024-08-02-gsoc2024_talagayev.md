@@ -142,7 +142,6 @@ Here you need to adjust the name of the PDB File to your PDB File and the resnam
 
 ```python
 import MDAnalysis as mda
-import mdonatello
 from mdonatello import MoleculeVisualizer
 
 u = mda.Universe("input.pdb")

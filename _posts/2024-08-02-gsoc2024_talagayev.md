@@ -37,7 +37,7 @@ I would divide this section into separate parts, each highlighting one of the im
 
 The main part of the code consisted of setting up the widget for the visualization, which would allow the display of the molecule in a jupyter notebook. This is performed in the 
 `MoleculeVisualizer` class that is responsible for the visualization.
-the functions in this class initializing the `IpyWidgets` interactive widgets such as a bar, that allows the user to select the molecule that he wants to display and also the
+It initializes several interactive widgets from `IpyWidgets` such as a dropdown menu to select the molecule that the user wants to display and the
 interactive checkboxes with each having a feature, that I would explain in a separate section.
 
 This main code was the first part of the code that I designed and was in the beginning only able to display the molecule and had only one interactive checkbox, which displayed the atom

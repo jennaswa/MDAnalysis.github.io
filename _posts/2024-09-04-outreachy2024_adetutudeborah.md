@@ -19,10 +19,6 @@ We [launched the survey form](https://www.mdanalysis.org/2024/07/31/survey-annou
 
 Currently, the initial survey results have been analyzed, and a summary has been prepared to inform the MDAnalysis communication strategy and a proposed content plan and calendar for MDAnalysis have been created.
 
-## What's Left to Do
-
-The next steps involve implementing the communications strategy based on the survey results and making adjustments to the strategy as needed. The survey results will guide the selection of communication channels and content types that will best engage the MDAnalysis community. Additionally, launching the MDAnalysis newsletter is another important part of the project. Beyond the internship, an ongoing effort will be needed to sustain the implementation of the communications strategy to grow MDAnalysis's user and contributor base.
-
 ## Links to Project Deliverables
 
 Here are the links to some key deliverables from the project:

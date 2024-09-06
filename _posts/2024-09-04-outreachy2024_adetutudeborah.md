@@ -13,7 +13,7 @@ At the start of the internship, I was able to explore MDAnalysis communication c
 
 Moving forward, I drafted a survey plan, starting with a description of the MDAnalysis target audience and developing research questions to understand what we aim to learn from the survey. From the research questions, I developed the survey questions and answer options, and the Google form to collect data that will inform our communications strategy. Also, I created a survey outreach plan detailing the outreach and advertising channels we plan to use for distributing the survey, the survey participation plan, and the promotional content (blog post, email, and social media post).
 
-We launched the survey form on August 1st and I sent follow-up reminders on August 15th and August 23rd respectively. While waiting for the survey responses, I developed a content strategy which included the proposed content plan and calendar for MDAnalysis. In the last week of the internship, I analyzed and wrote a summary of the survey results and how it can inform MDAnalysis communication strategy.
+We [launched the survey form](https://www.mdanalysis.org/2024/07/31/survey-announcement/) on August 1st and I sent follow-up reminders on August 15th and August 23rd respectively. While waiting for the survey responses, I developed a content strategy which included the proposed content plan and calendar for MDAnalysis. In the last week of the internship, I analyzed and wrote a summary of the survey results and how it can inform the MDAnalysis communication strategy.
 
 ## The Current State
 

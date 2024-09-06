@@ -17,7 +17,7 @@ We [launched the survey form](https://www.mdanalysis.org/2024/07/31/survey-annou
 
 ## The Current State
 
-Currently, the survey results have been analyzed, and a summary has been prepared to inform the MDAnalysis communication strategy and a proposed content plan and calendar for MDAnalysis have been created.
+Currently, the initial survey results have been analyzed, and a summary has been prepared to inform the MDAnalysis communication strategy and a proposed content plan and calendar for MDAnalysis have been created.
 
 ## What's Left to Do
 

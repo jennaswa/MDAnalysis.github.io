@@ -63,3 +63,5 @@ I would like to extend my sincere gratitude to the [Outreachy](https://www.outre
 A special thanks to the [MDAnalysis leadership team](https://www.mdanalysis.org/about/#mdanalysis-core-developers) and my mentors, Jenna Swarthout Goddard (@jennaswa) and Micaela Matta (@micaela-matta), for their guidance and feedback throughout the internship. This experience has provided me with new skills I will carry forward in my future endeavors.
 
 Finally, I want to express my gratitude to the entire MDAnalysis community for their participation in the survey and for helping make this project a success.
+
+— @adetutudeborah 

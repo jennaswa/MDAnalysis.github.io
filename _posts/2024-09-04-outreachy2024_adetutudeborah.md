@@ -21,7 +21,7 @@ Currently, the initial survey results have been analyzed, and a summary has been
 
 ## What's Left to Do
 
-The next steps involve implementing the communications strategy based on the survey results and making adjustments to the strategy as needed. The survey results will guide the selection of communication channels and content types that will best engage the MDAnalysis community. Additionally, launching the MDAnalysis newsletter is another important part of the project. Beyond the internship, an ongoing effort will be needed to sustain the implementation of the communications strategy to grow MDAnalysis user and contributor’s base.
+The next steps involve implementing the communications strategy based on the survey results and making adjustments to the strategy as needed. The survey results will guide the selection of communication channels and content types that will best engage the MDAnalysis community. Additionally, launching the MDAnalysis newsletter is another important part of the project. Beyond the internship, an ongoing effort will be needed to sustain the implementation of the communications strategy to grow MDAnalysis's user and contributor base.
 
 ## Links to Project Deliverables
 

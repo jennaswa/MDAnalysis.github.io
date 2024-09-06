@@ -19,20 +19,9 @@ We [launched the survey form](https://www.mdanalysis.org/2024/07/31/survey-annou
 
 Currently, the initial survey results have been analyzed, and a summary has been prepared to inform the MDAnalysis communication strategy and a proposed content plan and calendar for MDAnalysis have been created.
 
-## Links to Project Deliverables
+## What's Left to Do
 
-Here are the links to some key deliverables from the project:
-
-- [MDAnalysis Communications Report](https://docs.google.com/spreadsheets/d/1ARZxzOBy5MHa1UZfHyozmryDdgkBv_t652JwJ_xY6EU/edit?usp=drive_link)
-- [Methods and Definitions Document](https://docs.google.com/document/d/1I-NqeWR2rYfE8KHVm7Xg-Y8JGsIFDWpBYqBlplKsbm4/edit?usp=drive_link)
-- [Survey Plan Document](https://docs.google.com/document/d/16aVir2wgamMsHnQ3nHQ5mGCr2GjAnH2qglYxDgoVdas/edit?usp=drive_link)
-- [Survey Outreach Plan](https://docs.google.com/spreadsheets/d/1OFVzdHiQ5CQdeFokwJC2Mp10No3SA9vA8SveWOp1rC8/edit?usp=drive_link)
-- [Survey Promotion Content](https://docs.google.com/document/d/1SZIDpFcvfh6yN7pfFYm8UGm3DP7I4w-6BGzME8quGqg/edit?usp=drive_link)
-- [MDAnalysis Community Survey Blog Post](https://www.mdanalysis.org/2024/07/31/survey-announcement/)
-- [Content Strategy Docs](https://docs.google.com/spreadsheets/d/1p53ojMr3knXymFmeCvgPkud3oOREAymmBav2WKmLvMI/edit?usp=drive_link)
-- [Proposed Content Calendar](https://docs.google.com/document/d/1qNhPhJjpAVecqy3pEr50AfQDj1MPdeYFjnFA-T6tbwI/edit?usp=sharing)
-- [Events/ Workshop Calendar](https://docs.google.com/document/d/1WNOaAmvAy4A51mJo-EgHlxt6ZBDndBJo0M_ddqEQDi8/edit?usp=drive_link)
-- [Survey Analysis Summary](https://docs.google.com/document/d/1kHNvyK0khwu4UBd1mU5v7YiyH6tpWpUlS22Ohzg6GfY/edit?usp=sharing)
+The next steps involve implementing the communications strategy based on the survey results and making adjustments to the strategy as needed. The survey results will guide the selection of communication channels and content types that will best engage the MDAnalysis community. Additionally, launching the MDAnalysis newsletter is another important part of the project. Beyond the internship, an ongoing effort will be needed to sustain the implementation of the communications strategy to grow MDAnalysis user and contributor’s base.
 
 ## Challenges
 

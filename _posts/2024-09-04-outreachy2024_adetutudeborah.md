@@ -5,7 +5,7 @@ title: "Outreachy 2024 - Develop a communications strategy for a growing MDAnaly
 
 ## Goals of the Project
 
-The goal of this project is to develop a comprehensive social media and communications strategy to grow MDAnalysis user and contributor base. This involves conducting surveys with MDAnalysis users and developers to understand which communication channels they prefer to use to seek information about and engage with the MDAnalysis project. It also entails finding ways to boost participation and involvement from everyone in the MDAnalysis community and to also implement the setup of the MDAnalysis newsletter.
+The goal of this project is to develop a comprehensive social media and communications strategy to grow the MDAnalysis user and contributor base. This involves conducting surveys with MDAnalysis users and developers to understand which communication channels they prefer to use to seek information about and engage with the MDAnalysis project. It also entails finding ways to boost participation and involvement from everyone in the MDAnalysis community and to also implement the setup of the MDAnalysis newsletter.
 
 ## What I Did
 

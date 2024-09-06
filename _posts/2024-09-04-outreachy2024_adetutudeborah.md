@@ -42,7 +42,7 @@ Here are the links to some key deliverables from the project:
 
 One of the main challenges I encountered was drafting research and survey questions that would give the feedback needed to inform MDAnalysis communication strategy. It was important to ask the right questions to gather meaningful feedback from respondents. I was able to navigate this phase with the guidance and valuable input from my mentors and the MDAnalysis leadership.
 
-Another challenge that I faced was ensuring active participation from the community in the survey. Beyond the initial outreach, my mentor and I sent follow-up reminders, and the survey was promoted during the MDAnalysis 2024 User Group Meeting. While the survey did receive a reasonable number of responses, broader participation from the community could have provided even more meaningful insights.
+Another challenge that I faced was ensuring active participation from the community in the survey. Beyond the initial outreach, my mentor and I sent follow-up reminders, and the survey was promoted during the [MDAnalysis 2024 User Group Meeting](https://www.mdanalysis.org/pages/ugm2024/). While the survey did receive a reasonable number of responses, broader participation from the community could have provided even more meaningful insights.
 
 ## Lessons Learned
 

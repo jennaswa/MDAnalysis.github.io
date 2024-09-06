@@ -58,7 +58,7 @@ Here are some of the lessons I learned during the internship:
 
 ## Acknowledgements
 
-I would like to extend my sincere gratitude to the Outreachy organizers for this incredible opportunity to contribute to the MDAnalysis project.
+I would like to extend my sincere gratitude to the [Outreachy](https://www.outreachy.org/) organizers for this incredible opportunity to contribute to the MDAnalysis project.
 
 A special thanks to the MDAnalysis leadership team and my mentors, Jenna Swarthout Goddard (@jennaswa) and Micaela Matta (@micaela-matta), for their guidance and feedback throughout the internship. This experience has provided me with new skills I will carry forward in my future endeavors.
 

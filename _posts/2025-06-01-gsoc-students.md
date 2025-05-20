@@ -46,7 +46,7 @@ style="float: left; width: 110px; height: 110px; border-radius: 20px; border: 15
 
 MDAnalysis has a basic interface with [Blender](https://www.blender.org/) through a popular extension called [Molecular Nodes](https://github.com/BradyAJohnston/MolecularNodes), which allows importing MDAnalysis universes and provides advanced rendering capabilities through a GUI. The ability to script and support advanced visualizations of MDAnalysis results is currently limited. This project attempts to define, prototype and implement various APIs along with an integrated GUI within Blender as part of [GGMolVis](https://github.com/yuxuanzhuang/ggmolvis) and [Molecular Nodes](https://github.com/BradyAJohnston/MolecularNodes) that will together provide advanced visualization capabilities for MDAnalysis.
 
-Pardhav is an undergraduate student from India pursuing a Bachelors in Computer Science and Engineering from Vellore Institute of Technology (Vellore) and a BS in Data Science and Applications from IIT Madras.
+Pardhav is an undergraduate student from India pursuing a Bachelors in Computer Science and Engineering from Vellore Institute of Technology (Vellore) and a BS in Data Science and Applications from Indian Institute of Technology (IIT) Madras.
 
 You can find Pardhav on GitHub [@PardhavMaradani](https://github.com/PardhavMaradani).
 

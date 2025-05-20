@@ -31,7 +31,7 @@ style="float: left; width: 110px; height: 110px; border-radius: 20px; border: 15
 
 Nilay's project focuses on improving the 2D interaction visualizations in [ProLIF](https://github.com/chemosim-lab/ProLIF), a tool for analyzing molecular interactions such as protein–ligand and protein–protein binding. He is enhancing LigNetwork plots by implementing graph-based algorithms to automate residue placement, reduce edge overlaps, and improve overall readability. Additionally, he is exploring the integration of visualization approaches from tools like InteractionDrawer and Flareplot to improve the visual representation of interactions. The goal is to create a more user-friendly and informative visualization tool for researchers.
 
-Nilay is a sophomore at IIT Gandhinagar, pursuing a dual major in B.Tech Computer Science and Materials Science. He is passionate about computational materials science, machine learning, and generative AI and its applications. 
+Nilay is a sophomore at Indian Institute of Technology Gandhinagar (IITGN), pursuing a dual major in B.Tech Computer Science and Materials Science. He is passionate about computational materials science, machine learning, and generative AI and its applications. 
 
 You can find Nilay on [GitHub](https://github.com/nilay-v3rma), [LinkedIn](https://www.linkedin.com/in/nilay-verma-1110a928a/) and his [Portfolio](https://nilay-v3rma.github.io/).
 

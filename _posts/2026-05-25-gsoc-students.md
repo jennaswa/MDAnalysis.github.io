@@ -32,7 +32,7 @@ src="https://avatars.githubusercontent.com/kunjsinha"
 title="Kunj Sinha" alt="Kunj Sinha"
 style="float: left; width: 110px; height: 110px; border-radius: 20px; border: 15px solid white" />
 
-This project will implement WESTPAParser and WESTPAReader inside westpa/westpa, exposing WESTPA's HDF5 Framework simulation data as a standard MDAnalysis Universe. Post-simulation analysis currently requires custom boilerplate code via w_crawl which this project will replace with a single command, making the entire MDAnalysis toolkit accessible on WESTPA data.
+This project will implement WESTPAParser and WESTPAReader inside [westpa/westpa](https://github.com/westpa/westpa), exposing [WESTPA's HDF5 Framework](https://westpa.readthedocs.io/en/latest/users_guide/hdf5.html) simulation data as a standard [MDAnalysis Universe](https://userguide.mdanalysis.org/stable/universe.html). Post-simulation analysis currently requires custom boilerplate code via [w_crawl](https://westpa-sphinx-test.readthedocs.io/en/stable/users_guide/command_line_tools/w_crawl.html) which this project will replace with a single command, making the entire MDAnalysis toolkit accessible on WESTPA data.
 
 Kunj is an undergraduate student at PES University, pursuing a Bachelor of Technology in Computer Science and Engineering. He has always had an interest in various fields of science and technology since his early school days. In his free time, he listens to music, plays different musical instruments and enjoys cooking as well.
 

@@ -55,6 +55,22 @@ You can find Pardhav on GitHub [@PardhavMaradani](https://github.com/PardhavMara
 
 To see updates on this project, you can check out his [blog](https://pardhavmaradani.github.io/categories/gsoc-2026/).
 
+## Josh Uy: [Adding Additional Functionality and Enhancements to the Fetcher Module](https://summerofcode.withgoogle.com/programs/2026/projects/Jz9S7jxP)
+
+<img
+src=""{{site.images}}/joshuy.jpg"
+title="Josh Uy" alt="Josh Uy"
+style="float: left; width: 110px; height: 110px; border-radius: 20px; border: 15px solid white" />
+
+This project intends to add web retrieval functionality to MDAnalysis by augmenting the existing fetcher module. By introducing new fetchers,
+it is intended to allow MDAnalysis to download structures and trajectories from databases such as RCSB by passing to the [Universe](https://userguide.mdanalysis.org/stable/universe.html) class respectively.
+
+Joshua Raphael Uy is a Physics Ph.D student at Arizona State University. He earned a Bachelor of Science in Physics and a Bachelor of Arts in
+Mathematics at Miami University in Oxford, Ohio
+
+To follow this project, you can check out Josh's [blog](https://jauy123.github.io/) 
+
+
 
 — @amruthesht @BradyAJohnston @HeydenLabASU @jeremyleung521 @ltchong @nilay-v3rma @orbeckst @talagayev @yuxuanzhuang @IAlibay @jennaswa (@MDAnalysis/gsoc-mentors and org admins)
 
